@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7fccc2c640e813840badfe0d39c213e5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Reglisse
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1d40170a253647b42ae22226a6514038, type: 3}
+  - {fileID: 12800000, guid: 6ec6501e1611d7241994f81b2537f371, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

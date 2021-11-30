@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: 23bfe6f2aeea37e44b8b92015d6e89e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1468553770000457470
+    second: galaxy-pixel-art (1)_0
+  - first:
+      213: -2842008597850854511
+    second: galaxy-pixel-art (1)_1
+  - first:
+      213: -5718137329994113146
+    second: galaxy-pixel-art (1)_2
+  - first:
+      213: -4372793452027586229
+    second: galaxy-pixel-art (1)_3
+  - first:
+      213: -4926438037312009779
+    second: galaxy-pixel-art (1)_4
+  - first:
+      213: 5430374361943750887
+    second: galaxy-pixel-art (1)_5
+  - first:
+      213: -3326754698504047978
+    second: galaxy-pixel-art (1)_6
+  - first:
+      213: 1696236347020696997
+    second: galaxy-pixel-art (1)_7
+  - first:
+      213: -6762721029054557406
+    second: galaxy-pixel-art (1)_8
+  - first:
+      213: 4854931305194217382
+    second: galaxy-pixel-art (1)_9
+  - first:
+      213: 4794708125323992864
+    second: galaxy-pixel-art (1)_10
+  - first:
+      213: -6970205851555539833
+    second: galaxy-pixel-art (1)_11
+  - first:
+      213: 2638194777293115681
+    second: galaxy-pixel-art (1)_12
+  - first:
+      213: 7613946330092239629
+    second: galaxy-pixel-art (1)_13
+  - first:
+      213: 63125646881570899
+    second: galaxy-pixel-art (1)_14
+  - first:
+      213: 4362458208516263228
+    second: galaxy-pixel-art (1)_15
+  - first:
+      213: -5382392913486100521
+    second: galaxy-pixel-art (1)_16
+  - first:
+      213: -6291736821624045565
+    second: galaxy-pixel-art (1)_17
+  - first:
+      213: 8771060487642359944
+    second: galaxy-pixel-art (1)_18
+  - first:
+      213: 4454205060638020754
+    second: galaxy-pixel-art (1)_19
+  - first:
+      213: -279107485658254326
+    second: galaxy-pixel-art (1)_20
+  - first:
+      213: 6485648660102885107
+    second: galaxy-pixel-art (1)_21
+  - first:
+      213: -1486130435229021160
+    second: galaxy-pixel-art (1)_22
+  - first:
+      213: 6211738899889011288
+    second: galaxy-pixel-art (1)_23
+  - first:
+      213: -9154872378973346092
+    second: galaxy-pixel-art (1)_24
+  - first:
+      213: -4521287445392095253
+    second: galaxy-pixel-art (1)_25
+  - first:
+      213: -2176859355319095267
+    second: galaxy-pixel-art (1)_26
+  - first:
+      213: 5131392570187747510
+    second: galaxy-pixel-art (1)_27
+  - first:
+      213: 7285480987472812692
+    second: galaxy-pixel-art (1)_28
+  - first:
+      213: -1834523822852756449
+    second: galaxy-pixel-art (1)_29
+  - first:
+      213: -5184064473820325601
+    second: galaxy-pixel-art (1)_30
+  - first:
+      213: -5163787108207224703
+    second: galaxy-pixel-art (1)_31
+  - first:
+      213: 1025669003944350733
+    second: galaxy-pixel-art (1)_32
+  - first:
+      213: 8209936493699955588
+    second: galaxy-pixel-art (1)_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ef8d7026ae9be0800000000000000
+      internalID: -1468553770000457470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b6e74ec382f88d0800000000000000
+      internalID: -2842008597850854511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fdcc4f46815a0b0800000000000000
+      internalID: -5718137329994113146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49ddbff587b053c0800000000000000
+      internalID: -4372793452027586229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc98b0ad4b6c1abb0800000000000000
+      internalID: -4926438037312009779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8bb09f5b09c5b40800000000000000
+      internalID: 5430374361943750887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692fdc44a3ef4d1d0800000000000000
+      internalID: -3326754698504047978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_7
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad564778fd3a8710800000000000000
+      internalID: 1696236347020696997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_8
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2239324fd0df522a0800000000000000
+      internalID: -6762721029054557406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_9
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af560fac4e206340800000000000000
+      internalID: 4854931305194217382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_10
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f9d93f2a93a8240800000000000000
+      internalID: 4794708125323992864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_11
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784deae25bad44f90800000000000000
+      internalID: -6970205851555539833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_12
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121d8d41c20cc9420800000000000000
+      internalID: 2638194777293115681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_13
+      rect:
+        serializedVersion: 2
+        x: 6474
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b7908c8db2aa960800000000000000
+      internalID: 7613946330092239629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_14
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c79ef07440e000800000000000000
+      internalID: 63125646881570899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_15
+      rect:
+        serializedVersion: 2
+        x: 7470
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d491a90a09a8c30800000000000000
+      internalID: 4362458208516263228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_16
+      rect:
+        serializedVersion: 2
+        x: 7968
+        y: 305
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7c41e8926ed45b0800000000000000
+      internalID: -5382392913486100521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3008ade12b24fa8a0800000000000000
+      internalID: -6291736821624045565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_18
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888236dda0119b970800000000000000
+      internalID: 8771060487642359944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_19
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294931c37e380dd30800000000000000
+      internalID: 4454205060638020754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04ff277839602cf0800000000000000
+      internalID: -279107485658254326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feab6b0817a10a50800000000000000
+      internalID: 6485648660102885107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c07463e34306be0800000000000000
+      internalID: -1486130435229021160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_23
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a3c554e97843650800000000000000
+      internalID: 6211738899889011288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_24
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6224f631c53f080800000000000000
+      internalID: -9154872378973346092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_25
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be788f1f5092141c0800000000000000
+      internalID: -4521287445392095253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_26
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10383823fd3ac1e0800000000000000
+      internalID: -2176859355319095267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_27
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b09e15fa5e563740800000000000000
+      internalID: 5131392570187747510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_28
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49add24ab5a3b1560800000000000000
+      internalID: 7285480987472812692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_29
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1caed68d467a86e0800000000000000
+      internalID: -1834523822852756449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_30
+      rect:
+        serializedVersion: 2
+        x: 6474
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f199731d3d08e08b0800000000000000
+      internalID: -5184064473820325601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_31
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1881197ebfa8658b0800000000000000
+      internalID: -5163787108207224703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_32
+      rect:
+        serializedVersion: 2
+        x: 7470
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d045b3d5688eb3e00800000000000000
+      internalID: 1025669003944350733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galaxy-pixel-art (1)_33
+      rect:
+        serializedVersion: 2
+        x: 7968
+        y: 0
+        width: 498
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b708f2ebd8fe170800000000000000
+      internalID: 8209936493699955588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
