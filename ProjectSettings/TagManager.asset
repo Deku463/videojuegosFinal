@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Core
   - Bubble
+  - music
   layers:
   - Default
   - TransparentFX
