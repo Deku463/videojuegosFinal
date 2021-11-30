@@ -8,10 +8,12 @@ public class PlayerMovement : MonoBehaviour
     public ParticleSystem _dustParticles;
     public ParticleSystem _dashParticles;
     public ParticleSystem _wallParticles;
+    public PlayerUI _ui;
 
     [Header("Components")]
     private Rigidbody2D _rb;
     private Animator _anim;
+    private BoxCollider2D _col;
 
     [Header("Layer masks")]
     [SerializeField] private LayerMask _groundLayer;
@@ -87,6 +89,7 @@ public class PlayerMovement : MonoBehaviour
     {
         _rb = GetComponent<Rigidbody2D>();
         _anim = GetComponent<Animator>();
+        _col = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
@@ -485,6 +488,15 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             Gizmos.DrawCube(_standingFirePoint.position, Vector3.one * 0.2f);
+        }
+
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            _ui.TakeDamage(10);
         }
     }
 
