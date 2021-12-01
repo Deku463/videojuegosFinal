@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerUI : MonoBehaviour
 {
@@ -19,6 +20,10 @@ public class PlayerUI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(currentHealth == 0)
+        {
+            SceneManager.LoadScene(5);
+        }
         if (Input.GetKeyDown(KeyCode.Q)) TakeDamage(20);
     }
 
